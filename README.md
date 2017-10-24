@@ -1,2 +1,3 @@
 # Go Go Go
- so this is where I do GO and stuff
+ So this is where I do GO and stuff.
+ Mostly it's examples based off of https://tour.golang.org/
