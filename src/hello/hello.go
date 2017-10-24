@@ -1,5 +1,5 @@
 package main
-#hi github
+//hi github
 import "fmt"
 
 func main() {
